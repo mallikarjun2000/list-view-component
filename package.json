@@ -1,0 +1,16 @@
+{
+	"name": "list-view-component",
+	"version": "1.0.1",
+	"description": "Use this web component to render lists",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"Web",
+		"Component",
+		"Javascript"
+	],
+	"author": "Mallikarjun Komarraju",
+	"license": "MIT"
+}
